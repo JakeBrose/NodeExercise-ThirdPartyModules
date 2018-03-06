@@ -1,0 +1,23 @@
+{
+  "name": "thirdPartyModules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeBrose/NodeExercise-ThirdPartyModules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeBrose/NodeExercise-ThirdPartyModules/issues"
+  },
+  "homepage": "https://github.com/JakeBrose/NodeExercise-ThirdPartyModules#readme",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
+}
